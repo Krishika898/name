@@ -1,0 +1,27 @@
+.heading{
+    font-size: 25px;
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 5px rgb(2, 0, 128);
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.footer{
+    position: fixed;
+    font-size: 20px;
+    color: rgb(9, 0, 128);
+    background-image: url("https://th.bing.com/th/id/R.7bf6de2fd0a60da2047feab8e3f8afb2?rik=j%2b1svbi5ynyZQQ&pid=ImgRaw&r=0");
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+canvas{
+    border: 5px solid wheat;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(0, 9, 128);
+}
